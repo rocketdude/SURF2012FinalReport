@@ -1,0 +1,8 @@
+# Ignore TeX products
+*.pdf
+*.aux
+*.log
+*.toc
+
+# Temporary storage
+.DS_Store
